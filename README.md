@@ -1,4 +1,4 @@
-# Nmlab_final
+# NMLab-Final
 ### Prerequisite:
 1. [Install truffle](https://www.trufflesuite.com/truffle)
 2. [Ganarche_cli](https://github.com/trufflesuite/ganache-cli)
@@ -22,4 +22,4 @@ Then go to http://localhost:3002
 Comment line 12 and uncomment line 14 in ./index.js.
 Perform steps in how to use.
 ```
-# NMLab-Final
+
